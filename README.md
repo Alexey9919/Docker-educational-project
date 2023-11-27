@@ -1,6 +1,5 @@
 # Time Application
 
-Time application consists of the frontend and backend parts
-Frontend is written with help of the Vue.js framework
-Backend is written using Node.js and Express
-Database is MySQL
+В данном учебном проекте я я запустил веб приложение, состоящее из четырех сервисов, исользуя Docker Compose.
+Настроил конфигурацию томов, портов и переменных среды для этих сервисов.
+Опубликовал локально созданные образы на Docker Hub.
